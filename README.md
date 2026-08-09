@@ -2,6 +2,9 @@
 
 A simple e-commerce website for NISHAT LINEN built with Node.js, Express and EJS templates, backed by MongoDB. This README provides setup, configuration, and contribution guidance. Update any sections below to match the exact project structure and scripts in this repository.
 
+<img width="2560" height="1600" alt="localhost_5001_(Nest Hub Max)" src="https://github.com/user-attachments/assets/197c2e0c-9c9b-430e-a372-a103ab909ce5" />
+
+
 ## Features
 
 - Product listing and detail pages
